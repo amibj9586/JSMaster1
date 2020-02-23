@@ -1,8 +1,11 @@
-Learn Javascript
-======
+# Strings
 
-This book will teach you the basics of programming and Javascript. Whether you are an experienced programmer or not, this book is intended for everyone who wishes to learn the JavaScript programming language.
+JavaScript strings share many similarities with string implementations from other high-level languages. They represent text based messages and data.
 
-![Screen](./assets/intro.png)
+In this course we will cover the basics. How to create new strings and perform common operations on them.
 
-JavaScript (*JS for short*) is the programming language that enables web pages to respond to user interaction beyond the basic level. It was created in 1995, and is today one of the most famous and used programming languages.
+Here is an example of a string:
+
+```javascript
+"Hello World"
+```
